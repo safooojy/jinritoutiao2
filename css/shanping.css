@@ -1,0 +1,23 @@
+.swiper-container{
+	width: 100%;
+	height: 13.34rem;
+/* 	background-color: pink; */
+}
+.swiper-slide img{
+	width: 100%;
+	height: 11.67rem;
+}
+.tiao-lan{
+	width: 2rem;
+	height: .1rem;
+	background: blue;
+	margin-left: 2.1rem;
+	border-radius: 1rem;
+}
+.tiao-lv{
+	width: 2rem;
+	height: .1rem;
+	background: green;
+	margin-left: 3.5rem;
+	border-radius: 1rem;
+}
